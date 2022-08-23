@@ -3,24 +3,37 @@ STREAMELEMENTS
 
 Achter-Kugel
 ------------
-!8Ball
-...
-Stellt der magischen Achter-Kugel eine Frage
+  !8Ball
+  ...
+  Stellt der magischen Achter-Kugel eine Frage
 
 Duell
 -----
-!accept
-...
-Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer annehmen
+  !accept
+  ...
+  Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer annehmen
 
-!cancelduel
-...
-Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer löschen
+  !cancelduel
+  ...
+  Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer löschen
 
-!deny
-...
-Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer ablehnen
+  !deny
+  ...
+  Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer ablehnen
 
-!duel
+  !duel
+  ...
+  Mit einem anderen Chat-Teilnehmer um Punkte kämpfen
+
+!accoutage
 ...
-Mit einem anderen Chat-Teilnehmer um Punkte kämpfen
+Zeigt wann dein Account angelegt wurde
+
+!bet
+...
+Setze auf einen Wettbewerb
+
+!chatstats
+...
+weiß ich selber net genau :D
+

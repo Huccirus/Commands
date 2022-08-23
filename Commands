@@ -1,0 +1,26 @@
+STREAMELEMENTS
+--------------
+
+Achter-Kugel
+------------
+!8Ball
+...
+Stellt der magischen Achter-Kugel eine Frage
+
+Duell
+-----
+!accept
+...
+Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer annehmen
+
+!cancelduel
+...
+Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer löschen
+
+!deny
+...
+Eine Duell-Aufforderung von einem anderen Chat-Teilnehmer ablehnen
+
+!duel
+...
+Mit einem anderen Chat-Teilnehmer um Punkte kämpfen
